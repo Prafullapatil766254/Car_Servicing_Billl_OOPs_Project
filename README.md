@@ -25,4 +25,4 @@ Follow these instructions to get the project up and running on your local machin
 1. Clone the repository to your local machine using:
 
    ```bash
-   git clone https://github.com/your-username/car-service-station.git
+   git clone https://github.com/Prafullapatil766254/Car_Servicing_Billl_OOPs_Project.git
